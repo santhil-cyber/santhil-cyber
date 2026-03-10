@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I+build+things+that+shouldn%27t+be+possible+at+19&descSize=15&descAlignY=52" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=youngest+tech+leads+in+India+%E2%80%94+not+a+flex%2C+just+a+fact.;shipped+a+blockchain+notary+before+turning+20.;wrote+more+Solidity+than+college+assignments." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=youngest+tech+leads+in+India+%E2%80%94+not+a+flex%2C+just+a+fact.;shipped+a+blockchain+notary+before+turning+21.;wrote+more+Solidity+than+college+assignments." alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## who is this guy?
 
-I'm **Santhil** — a 19-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
+I'm **Santhil Kherwal** — a 20-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
 
 I lead engineering at a real company, build decentralized products people actually use, and somehow still manage to pass my exams. Currently a 2nd year at **Jaypee Institute of Information Technology**, but let's be honest — the interesting stuff happens outside the classroom.
 
@@ -26,7 +26,7 @@ Here's what I've been up to:
 <tr>
 <td width="50%" valign="top">
 
-### Answer Point
+### [Answer Point](https://answer-point.com/)
 
 **A Decentralized Timestamp Notary on Ethereum.**
 
@@ -48,11 +48,11 @@ Built with `Solidity` `Ethers.js` `React` `Vite` `MetaMask` `Sepolia Testnet`
 </td>
 <td width="50%" valign="top">
 
-### Protein Pantry
+### [Protein Pantry](https://proteinpantry.in/)
 
 **Tech Lead — and yes, one of the youngest in the country to hold that title at a production e-commerce company.**
 
-At 19, I'm leading the entire tech stack for a nutrition & supplements brand shipping across India. Not an internship. Not a "student project." An actual company with actual revenue and actual customers who get angry if the website breaks.
+At 20, I'm leading the entire tech stack for a nutrition & supplements brand shipping across India. Not an internship. Not a "student project." An actual company with actual revenue and actual customers who get angry if the website breaks.
 
 **What I built from the ground up:**
 - Designed and shipped the entire **Shopify Liquid theme** — pixel-perfect, mobile-first, conversion-optimized
@@ -121,21 +121,21 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhil-cyber&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&ring_color=8b5cf6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhil-cyber&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8b5cf6&sideNums=a78bfa&dates=c9d1d9" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=santhil-cyber&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8b5cf6&sideNums=a78bfa&dates=c9d1d9" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhil-cyber&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=c4b5fd&area=true&area_color=8b5cf650&hide_border=true&custom_title=when%20I%20actually%20commit%20(spoiler%3A%20a%20lot)" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhil-cyber&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=c4b5fd&area=true&area_color=8b5cf650&hide_border=true&custom_title=when%20I%20actually%20commit" width="98%" />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake-dark.svg?sanitize=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake.svg?sanitize=true">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/github-snake.svg?sanitize=true" width="100%">
 </picture>
 
 <br />
@@ -149,13 +149,13 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 **I'm always down to chat about Web3, wild startup ideas, or why decentralization matters.**
 
 <p>
-  <a href="https://linkedin.com/in/santhil-cyber">
+  <a href="https://www.linkedin.com/in/santhilkherwal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/santhil-cyber">
+  <a href="https://x.com/santhil_X">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:santhil-cyber@example.com">
+  <a href="mailto:santhil.kherwal05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
