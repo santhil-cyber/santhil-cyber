@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I+love+building+things+that+solve+real+problems&descSize=15&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhil Kherwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I+build+things+that+shouldn%27t+be+possible+at+19&descSize=15&descAlignY=52" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=30&lines=youngest+tech+leads+in+India+%E2%80%94+not+a+flex%2C+just+a+fact.;shipped+a+blockchain+notary+before+turning+20.;wrote+more+Solidity+than+college+assignments." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=youngest+tech+leads+in+India+%E2%80%94+not+a+flex%2C+just+a+fact.;shipped+a+blockchain+notary+before+turning+20.;wrote+more+Solidity+than+college+assignments." alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,7 +12,7 @@
 
 ## who is this guy?
 
-I'm **Santhil** — a 20-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
+I'm **Santhil** — a 19-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
 
 I lead engineering at a real company, build decentralized products people actually use, and somehow still manage to pass my exams. Currently a 2nd year at **Jaypee Institute of Information Technology**, but let's be honest — the interesting stuff happens outside the classroom.
 
@@ -120,7 +121,7 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhil-cyber&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&ring_color=8b5cf6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhil&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8b5cf6&sideNums=a78bfa&dates=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhil-cyber&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8b5cf6&sideNums=a78bfa&dates=c9d1d9" />
 </div>
 
 <br />
@@ -131,6 +132,16 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santhil-cyber/santhil-cyber/output/dist/github-snake.svg" width="100%">
+</picture>
+
+<br />
+
+---
+
 <div align="center">
 
 ## let's talk
@@ -138,13 +149,13 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 **I'm always down to chat about Web3, wild startup ideas, or why decentralization matters.**
 
 <p>
-  <a href="https://linkedin.com/in/santhil">
+  <a href="https://linkedin.com/in/santhil-cyber">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/santhil">
+  <a href="https://twitter.com/santhil-cyber">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:santhil@example.com">
+  <a href="mailto:santhil-cyber@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -154,7 +165,7 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 ```
 if (you.liked(this)) {
   star(thisRepo);
-  follow("santhil");
+  follow("santhil-cyber");
   // seriously, it takes 2 seconds
 }
 ```
