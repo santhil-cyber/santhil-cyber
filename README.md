@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhil Kherwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I+build+things+that+shouldn%27t+be+possible+at+19&descSize=15&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I+build+things+that+shouldn%27t+be+possible+at+19&descSize=15&descAlignY=52" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=youngest+tech+leads+in+India+%E2%80%94+not+a+flex%2C+just+a+fact.;shipped+a+blockchain+notary+before+turning+20.;wrote+more+Solidity+than+college+assignments." alt="Typing SVG" />
