@@ -11,9 +11,9 @@
 
 ## who is this guy?
 
-I'm **Santhil Kherwal** — a 20-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
+I'm **Santhil Kherwal**, a 20-year-old developer who'd rather deploy smart contracts than attend lectures *(sorry, JIIT)*.
 
-I lead engineering at a real company, build decentralized products people actually use, and somehow still manage to pass my exams. Currently a 2nd year at **Jaypee Institute of Information Technology**, but let's be honest — the interesting stuff happens outside the classroom.
+I lead engineering at a real company, build decentralized products people actually use, and somehow still manage to pass my exams. Currently a 2nd year at **Jaypee Institute of Information Technology**, but let's be honest the interesting stuff happens outside the classroom.
 
 Here's what I've been up to:
 
@@ -29,7 +29,7 @@ Here's what I've been up to:
 
 **A Decentralized Timestamp Notary on Ethereum.**
 
-The idea is dead simple: prove you had a file on a specific date. No uploads. No middlemen. No trust required — just cryptographic math anchored on-chain, permanently.
+The idea is dead simple: prove you had a file on a specific date. No uploads. No middlemen. No trust required...just cryptographic math anchored on-chain, permanently.
 
 Your file never touches a server. We compute a **SHA-256 hash** entirely in your browser using the **Web Crypto API**, then anchor that fingerprint on Ethereum. Once it's on-chain, nobody — not a government, not a corporation, not even us — can alter or backdate it.
 
