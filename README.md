@@ -62,7 +62,6 @@ At 20, I'm leading the entire tech stack for a nutrition & supplements brand shi
 
 Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custom CSS`
 
-> *Most people my age are figuring out how to center a div. I'm figuring out why a webhook failed at 3 AM on a Sunday.*
 
 </td>
 </tr>
