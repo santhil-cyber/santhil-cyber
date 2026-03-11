@@ -118,13 +118,6 @@ Built with `Shopify Liquid` `JavaScript` `Node.js` `REST APIs` `Webhooks` `Custo
 ## the numbers
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhil-cyber&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&ring_color=8b5cf6" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=santhil-cyber&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=8b5cf6&sideNums=a78bfa&dates=c9d1d9" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhil-cyber&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=c4b5fd&area=true&area_color=8b5cf650&hide_border=true&custom_title=when%20I%20actually%20commit" width="98%" />
 </div>
 
